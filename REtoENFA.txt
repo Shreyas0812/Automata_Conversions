@@ -1,0 +1,9 @@
+3
+a
+b
+e
+q0		e			q1 q2 
+q1		a			q3 
+q3		e			q4 
+q2		b			q5 
+q5		e			q4 

@@ -1,6 +1,6 @@
 # Automata_Conversions
 
-References
+### References
 - Regular Expression to Epsilon NFA
 - Epsilon NFA to NFA
   * http://mycodetechniques.blogspot.com/2018/09/ktu-cs-431-compiler-design-lab.html

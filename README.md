@@ -7,3 +7,8 @@
 - NFA to DFA
   * https://github.com/Rahul-Jyoti/NFA-TO-DFA-CONVERSION/blob/master/nfa_to_dfa.py
   
+### Made By:
+- Ajinkya Kulkarni    (RA1811027010091)
+- Shreyas Raorane     (RA1811028010016)
+- Smitha Sampathkumar (RA1811028010020)
+- Mitali Kargwal      (RA1811028010021)

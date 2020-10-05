@@ -2,6 +2,7 @@
 
 ### References
 - Regular Expression to Epsilon NFA
+  * https://github.com/aayushsrivastava/Regex-to-Epsilon-NFA/blob/master/re_to_nfa.py
 - Epsilon NFA to NFA
   * http://mycodetechniques.blogspot.com/2018/09/ktu-cs-431-compiler-design-lab.html
 - NFA to DFA
